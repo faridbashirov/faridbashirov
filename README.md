@@ -14,7 +14,7 @@ I am a Full Stack Python Web Developer <img src="https://media.giphy.com/media/W
 
 - 🌱 I’m currently learning **Django, React**
 
-- 📫 How to reach me **bashirov.farid97@mail.ru**
+- 📫 How to reach me **ferid075@mail.ru**
 
 ### 🚀 &nbsp;Languages and Tools :
 
